@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+	I’m excited to be applying to Data Analyst Internship at McKinsey. Studying Computer Science in a penultimate year of a Bachelor degree and being experienced in Software Development, Product Management, Data Mining, and Artificial Intelligence, I am confident I am prepared well for this position.
+
+    	The more challenging the problem, the more excited I am. I enjoy engaging with projects that require me to work outside my comfort and knowledge set, and I am delighted by the opportunity to apply my knowledge at Periscope by McKinsey. Bringing a cutting-edge technology to the global market, providing best user experience and accelerating innovations and commercial transformation, Periscope inspires me to keep making the impact every day and developing skills to create future innovations.
+
+    	I am a tech-savvy fast-learner with hands-on experience using a variety of programming languages such as C, C++, Java, Python, Linux, Git, etc. My favorite project is AgentGame, a mini-game where monsters and agents walk around a maze. The most exciting about this project is the implementation of graph theory and algorithms which keeps me sharp and focused.
+    
+ 	Moreover, I am versatile and fully-committed to developing innovative projects for the public good. As a Vice-Chair of Nazarbayev University ACM Student Chapter, I am contributing to the popularization of Computer Science among Kazakhstani children and students by organizing national hackathons and university-wide technical lectures. In addition, I have managed a crowd-funding campaign for Social Inclusion Cafe in Astana that raised $10,000 in 3 months.
+    
+	As a 2018 Product Management Intern, I was responsible for the development of own product and management of a cross-functional team of 10 people: Software Engineers, Business Analytics and UI/UX-designers. During this internship, I have considerably improved my communication, leadership and analytical skills. My proudest accomplishment is that I have saved $8000 for the company by integrating research on values of local citizens and market analysis, effectively prioritizing features and developing a product vision. 
+
+	My enclosed resume expands on my coursework, employment, and leadership experience. As I prepare for a career in computer science, I am dedicated to gaining practical experience to complement my coursework. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Assem Yeskabyl
+the
+the
+

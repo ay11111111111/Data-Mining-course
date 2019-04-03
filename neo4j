@@ -1,0 +1,22 @@
+1.Clint Eastwood, Tom Hanks, Danny DeVito
+
+MATCH (a)-[: DIRECTED]->(b)<-[: ACTED_IN]-(a)
+RETURN a,b;
+
+2.
+
+MATCH (e)<-[: ACTED_IN]-(a)-[: ACTED_IN]->(b)<-[:ACTED_IN]-(c)-[:ACTED_IN]->(d)
+WHERE a<>c AND e<>d
+RETURN a.name, c.name;
+
+3.
+
+MATCH (a)-[: ACTED_IN]->(b)<-[: ACTED_IN]-(c)-[: ACTED_IN]->(d)<-[:DIRECTED]-(e)
+WHERE e.name = "Tom Hanks"
+RETURN a,b,c,d ;
+
+4.
+
+MATCH (a)-[: ACTED_IN]->(b)<-[:ACTED_IN]-(c)-[:ACTED_IN]->(d)
+WHERE d.title = "Top Gun" OR d.title = "Bicentennial Man"
+RETURN a;
